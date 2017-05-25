@@ -1,0 +1,6 @@
+.listaxml/
+.ideia/
+dist/
+lista_xml.egg-info/
+lista_xml/__pycache__/
+*.pyc
